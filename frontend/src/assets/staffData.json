@@ -1,0 +1,8 @@
+[
+    { "name": "John Doe", "department": "Mathematics", "gender": "Male", "contact": "123-456-7890", "status": "Active" },
+    { "name": "Jane Smith", "department": "Science", "gender": "Female", "contact": "987-654-3210", "status": "Inactive" },
+    { "name": "Michael Brown", "department": "History", "gender": "Male", "contact": "456-789-1230", "status": "Active" },
+    { "name": "Emily Johnson", "department": "English", "gender": "Female", "contact": "321-654-9870", "status": "Active" },
+    { "name": "Robert Wilson", "department": "Physics", "gender": "Male", "contact": "789-123-4560", "status": "Inactive" }
+  ]
+  
